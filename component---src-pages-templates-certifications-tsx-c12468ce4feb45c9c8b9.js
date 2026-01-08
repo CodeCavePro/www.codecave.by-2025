@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcode_cave=self.webpackChunkcode_cave||[]).push([[840],{2659:function(e,s,c){c.r(s);var i=c(5471),t=c(7437);s.default=()=>(0,t.Y)(i.A,null,(0,t.Y)("div",null,(0,t.Y)("a",{href:"https://businessfirms.co/company/codecave",target:"_blank"},(0,t.Y)("img",{height:"220",width:"200",alt:"company widget",src:"https://businessfirms.co/images/bfirms-certified.png"}))))}}]);
+//# sourceMappingURL=component---src-pages-templates-certifications-tsx-c12468ce4feb45c9c8b9.js.map
