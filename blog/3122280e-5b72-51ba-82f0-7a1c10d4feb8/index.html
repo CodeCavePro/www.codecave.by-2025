@@ -13,7 +13,7 @@
 <p>Но есть одно но: все эти команды будут выполняться из-под <a href="https://learn.microsoft.com/ru-ru/windows/win32/services/localsystem-account">системного пользователя <code>SYSTEM</code></a>, а это вам не дудки, поскольку это может сделать вашу машину лёгкой целью для всяческих вредоносного ПО.
 Но мы-то знаем, что делаем, не так ли?</p>
 <p>Вы можете активировать всю эту магию PreUp-PostDown, включив секретную фичу через реестр</p>
-<pre><code class="language-batch">reg add HKLM\Software\WireGuard /v LimitedOperatorUI /t REG_DWORD /d 1 /f  
+<pre><code class="language-batch">reg add HKLM\Software\WireGuard /v DangerousScriptExecution /t REG_DWORD /d 1 /f
 </code></pre>
 <p>Затем вы можете начать добавлять параметры <code>PreUp</code>, <code>PostUp</code>, <code>PreDown</code> и <code>PostDown</code> в конфигурации туннеля.</p>
 <p>Дальше я просто добавил</p>
