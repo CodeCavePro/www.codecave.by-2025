@@ -1,0 +1,7 @@
+Contact: mailto:root@codecave.by
+Contact: https://www.codecave.by/contact/
+Policy: https://www.codecave.by/security/
+Acknowledgments: https://www.codecave.by/security#acknowledgements
+Preferred-Languages: ru
+Canonical: https://www.codecave.by/security.txt
+Expires: 2030-12-31T23:59:59Z
