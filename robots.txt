@@ -1,4 +1,7 @@
 User-agent: *
+Allow: /llms.txt
+
+User-agent: *
 Disallow: /privacy-policy
 Disallow: /cookie-policy
 Sitemap: https://www.codecave.by/sitemap-index.xml
