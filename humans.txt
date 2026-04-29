@@ -1,0 +1,18 @@
+/* TEAM */
+	Руководитель: Жмаев Ярослав
+	GitHub: https://github.com/salaros
+	From: Венеция, Италия
+
+  UI/UX: Мария Шабан
+	Behance: https://www.behance.net/shabanmaria
+	From: Варшава, Польша
+
+	Fullstack разработчик: Мария Никитенко
+	GitHub: https://github.com/MariyaN23
+	From: Minsk, Belarus
+
+/* SITE */
+	Last update: 2026/04/30
+	Language: English
+	Doctype: HTML5
+	IDE: Visual Studio Code, JetBrains Webstorm, Figma
